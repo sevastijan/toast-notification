@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.item {
+  background: blue;
+
+  &--last {
+    background: red;
+  }
+}
